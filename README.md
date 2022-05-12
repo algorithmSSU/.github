@@ -1,9 +1,16 @@
 # 🖥️ 숭실대 알고리즘 스터디
 
 ## 사용하는 책
-<img src="./profile/img/doit!자료구조.jpg"  width="200">
-<img src="./profile/img/doit!알고리즘테스트.jpg"  width=201">
-
+<table>
+ <tr> 
+    <td> 
+        <img src="./profile/img/doit!자료구조.jpg"  width="200">
+    </td>
+    <td>
+        <img src="./profile/img/doit!알고리즘테스트.jpg"  width=201">
+    </td>
+</tr>
+</table>
 ## 목차
 
 | 날짜 | 책 | 목차 |  | 링크 |
